@@ -1,4 +1,4 @@
-##Parse alternatives
+##Parse alternative back-end services
 
 As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will be fully retired after a year-long period ending on January 28, 2017. Most of us need to find an alternative backend service for our apps. 
 
