@@ -1,19 +1,5 @@
 ##Parse alternative back-end services
 
-As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will be fully retired after a year-long period ending on January 28, 2017. Most of us need to find an alternative backend service for our apps. 
-
-###What features are we looking for?
-- Data Storage
-- Push Notifications
-- Usage Analytics
-- Dashboard
-- Social Integration
-- User Administration
-- Cloud Code Integration
-- Multiple Mobile Platform SDKs
-- Background Jobs
-- Crash Report
-
 ###Index
 - [General purpose providers](#general-purpose-providers)
 - [Push notification providers](#push-notification-providers)
@@ -24,7 +10,7 @@ As you may noticed [Parse](http://blog.parse.com/announcements/moving-on) will b
 - [Open-Source Solutions](#open-source-solutions)
 - [Parse Server providers](#parse-server-providers)
 
-The real-time providers are marked with :zap: icon.
+:zap: : Realtime supported
 
 ###General purpose providers
 
